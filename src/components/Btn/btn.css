@@ -1,2 +1,9 @@
 .btn {
+    padding: 0.5rem 1.5rem;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #000;
+    background: #6495ed;
+    border-radius: 10px;
+    cursor: pointer;
 }
