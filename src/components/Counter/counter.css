@@ -1,0 +1,13 @@
+.counter {
+    font-size: 2rem;
+}
+
+.upvote {
+    font-size: 2rem;
+    color: #00ff00;
+}
+
+.downvote {
+    font-size: 2rem;
+    color: #ff0000;
+}

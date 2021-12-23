@@ -1,0 +1,23 @@
+@media (max-height: 640px) {
+    .card img {
+        max-height: 200px;
+    }
+}
+
+/* @media (max-width: 1280px) {
+    .card img {
+        max-height: 400px;
+    }
+}
+
+@media (max-width: 800px) {
+    .card img {
+        max-height: 250px;
+    }
+}
+
+@media (max-width: 500px) {
+    .card img {
+        max-height: 200px;
+    }
+} */
